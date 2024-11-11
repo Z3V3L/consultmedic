@@ -14,27 +14,10 @@
 
     <!-- Bootstrap core CSS -->
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
-
-    
+   
     <!-- Custom styles for this template -->
     <link href="product.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
   </head>
   <body>
     
@@ -42,8 +25,10 @@
 
 <main>
   <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-    <div class="col-md-5 p-lg-5 mx-auto my-5">
-      <h1 class="display-4 fw-normal">CONSULTMEDIC</h1>
+    <div class="col-md-7 p-lg-5 mx-auto my-5">
+      <img src="styles/consultmedic_logo.png" alt="" width="200px">
+      <div class="logo-shadow">.</div>
+      <h1 class="display-4 fw-normal mt-5">CONSULTMEDIC</h1>
       <p class="lead fw-normal">And an even wittier subheading to boot. Jumpstart your marketing efforts with this example based on Apple’s marketing pages.</p>
       <a class="btn btn-outline-secondary" href="#">Ir ahora!</a>
     </div>

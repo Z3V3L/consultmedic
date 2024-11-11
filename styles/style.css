@@ -1,0 +1,26 @@
+/*---------- Template ----------*/
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+/*---------- Logo ----------*/
+
+.logo-shadow {
+
+	width: 4vmin;
+	margin: 0 auto 20px;
+	height: 0;
+	color: rgba(66, 66, 66, 0);
+	box-shadow: 0 0 3.4vmin 20px rgba(66, 66, 66, 0.75);
+	animation: shadow 0.7s ease-in infinite alternate;
+}
