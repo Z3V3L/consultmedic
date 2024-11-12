@@ -25,7 +25,7 @@
             <a class="nav-link" href="cuestionario.php">Realizar cuestionario</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Subir archivo</a>
+            <a class="nav-link" href="subirArchivo.php">Subir archivo</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="">Sobre nosotros</a>
