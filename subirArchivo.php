@@ -28,7 +28,7 @@
     <h3 class="my-3">Subir una receta o diagnóstico previo </h3>  
     <div class="row" >
       <div class="col">
-        <input type="file" class="form-control mt-2" id="inputSubirArchivo" name="fileToUpload">
+        <input type="file" class="form-control mt-2" id="inputSubirArchivo" name="fileToUpload" required>
       </div>
     </div>
     <div class="row justify-content-end">
