@@ -24,11 +24,11 @@
 <main>
 
 <div class="container">
-  <form action="upload.php" method="post" enctype="multipart/form-data">
+  <form action="procesar.php" method="post" enctype="multipart/form-data">
     <h3 class="my-3">Subir una receta o diagnóstico previo </h3>  
     <div class="row" >
       <div class="col">
-        <input type="file" class="form-control mt-2" id="inputSubirArchivo" name="fileToUpload" required>
+        <input type="file" class="form-control mt-2" id="inputSubirArchivo" name="imagen" required>
       </div>
     </div>
     <div class="row justify-content-end">
