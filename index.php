@@ -1,82 +1,162 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <title>Consultmedic</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ConsultMedic</title>
+    <link rel="stylesheet" href="CSS/styles.css">
     <link rel="icon" type="image/x-icon" href="styles/logo_flat.png">
-
-
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/product/">
-
-    
-
-    <!-- Bootstrap core CSS -->
-    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
-   
-    <!-- Custom styles for this template -->
-    <link href="product.css" rel="stylesheet">
-    <link href="styles/style.css" rel="stylesheet">
-  </head>
-  <body>
-    
-<?php include 'header-footer/header.php';?>
-
-<main>
-  <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-    <div class="col-md-7 p-lg-5 mx-auto my-5">
-      <img src="styles/consultmedic_logo.png" alt="" width="200px">
-      <div class="logo-shadow">.</div>
-      <h1 class="display-4 fw-normal mt-5">CONSULTMEDIC</h1>
-      <p class="lead fw-normal">And an even wittier subheading to boot. Jumpstart your marketing efforts with this example based on Apple’s marketing pages.</p>
-      <a class="btn btn-outline-secondary" href="#">Ir ahora!</a>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="img/logo_flat_dark.png" alt="logo">
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li class="nav-links2"><a href="#" class="menu">Inicio</a></li>
+                <li class="nav-links2"><a href="cuestionario.php" class="menu">Realizar cuestionario</a></li>
+                <li class="nav-links2"><a href="#" class="menu">Subir archivo</a></li>
+                <li class="nav-links2"><a href="#" class="menu">Sobre nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="carousel">
+        <div class="list">
+            <div class="item">
+                <img src="img/fondo.jpg" class="fondo1">
+                <div class="content">
+                    <div class="titulo">ConsultMedic</div>
+                    <div class="topic">Tu salud, nuestra prioridad</div>
+                    <div class="des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero incidunt magnam nam quod facilis, modi perferendis mollitia veniam hic distinctio placeat consequuntur, ullam ipsum sed. Suscipit natus odit minus corporis.</div>
+                </div>
+            </div>
+        </div>
     </div>
-    <!--<div class="product-device shadow-sm d-none d-md-block"></div>
-    <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>-->
-  </div>
 
-  <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <div class="bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
-      <div class="my-3 py-3">
-        <h2 class="display-5">Enfermedad crónica 1</h2>
-        <p class="lead">And an even wittier subheading.</p>
-      </div>
-      <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
+    <div class="carousel2">
+        <div class="list">
+            <div class="item">
+                <img src="img/fondo2.jpg" class="fondo2">
+                <div class="content2">
+                    <div class="titulo2">Diabetes</div>
+                    <div class="topic2">Sintomas y Causas</div>
+                    <div class="des2">Sed excesiva, micción frecuente, fatiga y pérdida de peso 
+                        inexplicable. </div> <br>
+                    <div class="des2">La diabetes tipo 1 tiene un origen autoinmune, mientras que la 
+                        diabetes tipo 2 está relacionada con factores de riesgo como la obesidad, 
+                        el sedentarismo y la predisposición genética.</div>
+                    <div class="btn">
+                        <button id="startTest"  class="btn1" >Test</button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/fondo3.jpg" class="fondo2">
+                <div class="content3">
+                    <div class="titulo3">Cancer</div>
+                    <div class="topic3">Sintomas y Causas</div>
+                    <div class="des2">Los síntomas varían dependiendo del tipo de cáncer, pero 
+                        comúnmente incluyen pérdida de peso inexplicable, fatiga, dolores 
+                        persistentes y la aparición de bultos o masas en el cuerpo. </div> <br>
+                    <div class="des2"> Factores genéticos, exposición a carcinógenos como el humo del 
+                        tabaco, la radiación y ciertas sustancias químicas, así como infecciones 
+                        crónicas (por ejemplo, virus del papiloma humano en el cáncer cervical).</div>
+                    <div class="btn">
+                        <button id="btnTest" class="btn2">Test</button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/fondo4.jpg" class="fondo2">
+                <div class="content4">
+                    <div class="tit">Enfermedades</div>
+                    <div class="titulo4">Cardiovasculares</div>
+                    <div class="topic4">Sintomas y Causas</div>
+                    <div class="des2"> Dificultad para respirar, dolores en el pecho, fatiga, y en casos 
+                        graves, parálisis o pérdida de función en una parte del cuerpo, que son 
+                        comunes en los ACV. </div> <br>
+                    <div class="des2">La hipertensión, el tabaquismo, el sedentarismo, la obesidad, la 
+                        diabetes y una dieta rica en grasas y sal son factores que contribuyen a las 
+                        ECV.</div>
+                    <div class="btn">
+                        <button id="btnTest2" class="btn3">Test</button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/fondo5.jpg" class="fondo2">
+                <div class="content5">
+                    <div class="tit">Enfermedades</div>
+                    <div class="titulo5">Respiratorias Cronicas</div>
+                    <div class="topic5">Sintomas y Causas</div>
+                    <div class="des2"> Tos crónica, sibilancias, dificultad para respirar y producción 
+                        excesiva de esputo.</div> <br>
+                    <div class="des2"> El tabaquismo es la principal causa de la EPOC, aunque la 
+                        exposición prolongada a contaminantes del aire también es un factor 
+                        significativo. En el caso del asma, los desencadenantes incluyen 
+                        alérgenos, el ejercicio físico y factores ambientales.</div>
+                    <div class="btn">
+                        <button id="btnTest3" class="btn4">Test</button>
+                    </div>                
+                </div>
+            </div>
+        </div>
+
+        <div class="thumbnail">
+            <div class="item">
+                <img src="img/fondo3.jpg">
+                <div class="content2">
+                    <div class="titulo2">
+                        Cancer
+                    </div>
+                    <div class="des2">
+                        Descripcion
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/fondo4.jpg">
+                <div class="content2">
+                    <div class="titulo2">
+                        Enfermedades
+                    </div>
+                    <div class="des2">
+                        Cardio...
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/fondo5.jpg">
+                <div class="content2">
+                    <div class="titulo2">
+                        Enfermedades
+                    </div>
+                    <div class="des2">
+                        Respiratorias
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/fondo2.jpg">
+                <div class="content2">
+                    <div class="titulo2">
+                        Diabetes
+                    </div>
+                    <div class="des2">
+                        Descripcion
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="arrows">
+            <button id="prev"><</button>
+            <button id="next">></button>
+        </div>
+        <div class="time"></div>
     </div>
-    <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-      <div class="my-3 p-3">
-        <h2 class="display-5">Enfermedad crónica 2</h2>
-        <p class="lead">And an even wittier subheading.</p>
-      </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-    </div>
-  </div>
 
-  <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-      <div class="my-3 p-3">
-        <h2 class="display-5">Enfermedad crónica 3</h2>
-        <p class="lead">And an even wittier subheading.</p>
-      </div>
-      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-    </div>
-    <div class="bg-primary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
-      <div class="my-3 py-3">
-        <h2 class="display-5">Enfermedad crónica 4</h2>
-        <p class="lead">And an even wittier subheading.</p>
-      </div>
-      <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-    </div>
-  </div>
-
-
-</main>
-
-<?php include 'header-footer/footer.php';?>
-
-    <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
-
-      
-  </body>
+    <script src="JS/interaccion.js"></script>
+</body>
 </html>

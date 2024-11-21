@@ -31,9 +31,9 @@
         <input type="file" class="form-control mt-2" id="inputSubirArchivo" name="imagen" required>
       </div>
     </div>
-    <div class="row justify-content-end">
-      <div class="col-2 mt-3">
-        <button class="btn btn-outline-secondary" type="submit" value="Upload Image" name="submit">Subir archivo</button>
+    <div class="row justify-content-center">
+      <div class="col-3 mt-3">
+        <button class="btn btn-outline-secondary text-center mx-auto" type="submit" value="Upload Image" name="submit">Subir archivo</button>
       </div>
     </div>
   </form>

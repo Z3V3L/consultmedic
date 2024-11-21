@@ -4,6 +4,7 @@
       <img src="styles/logo_flat_dark.png" alt="Logo Consultmedic" width="28px">
       <small class=" mb-3 text-muted">CONSULTMEDIC &copy; 2024</small>
     </div>
+    <!--
     <div class="col-6 col-md">
       <h5>Features</h5>
       <ul class="list-unstyled text-small">
@@ -42,5 +43,6 @@
         <li><a class="link-secondary" href="#">Terms</a></li>
       </ul>
     </div>
+    -->
   </div>
 </footer>
