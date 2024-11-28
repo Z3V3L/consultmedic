@@ -10,13 +10,13 @@
 <body>
     <header class="header">
         <div class="logo">
-            <img src="img/logo_flat_dark.png" alt="logo">
+            <a href="#"><img src="img/logo_flat_dark.png" alt="logo"></a>
         </div>
         <nav>
             <ul class="nav-links">
                 <li class="nav-links2"><a href="#" class="menu">Inicio</a></li>
                 <li class="nav-links2"><a href="cuestionario.php" class="menu">Realizar cuestionario</a></li>
-                <li class="nav-links2"><a href="#" class="menu">Subir archivo</a></li>
+                <li class="nav-links2"><a href="subirArchivo.php" class="menu">Subir archivo</a></li>
                 <li class="nav-links2"><a href="#" class="menu">Sobre nosotros</a></li>
             </ul>
         </nav>
@@ -26,9 +26,8 @@
             <div class="item">
                 <img src="img/fondo.jpg" class="fondo1">
                 <div class="content">
-                    <div class="titulo">ConsultMedic</div>
+                    <div class="titulo" id="titulo_consultmedic">ConsultMedic</div>
                     <div class="topic">Tu salud, nuestra prioridad</div>
-                    <div class="des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero incidunt magnam nam quod facilis, modi perferendis mollitia veniam hic distinctio placeat consequuntur, ullam ipsum sed. Suscipit natus odit minus corporis.</div>
                 </div>
             </div>
         </div>

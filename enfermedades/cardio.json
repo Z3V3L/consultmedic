@@ -1,0 +1,71 @@
+{
+    "feed": {
+        "base": "https://medlineplus.gov/",
+        "lang": "es",
+        "xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "title": {
+            "type": "text",
+            "_value": "MedlinePlus Connect"
+        },
+        "updated": {
+            "_value": "2024-11-22T21:35:49Z"
+        },
+        "id": {
+            "_value": ""
+        },
+        "author": {
+            "name": {
+                "_value": "U.S. National Library of Medicine"
+            },
+            "uri": {
+                "_value": "https://www.nlm.nih.gov"
+            }
+        },
+        "subtitle": {
+            "type": "text",
+            "_value": "MedlinePlus Connect results for ICD-10-CM I51.9"
+        },
+        "category": [
+            {
+                "scheme": "mainSearchCriteria.v.c",
+                "term": "I51.9"
+            },
+            {
+                "scheme": "mainSearchCriteria.v.cs",
+                "term": "ICD10CM"
+            },
+            {
+                "scheme": "mainSearchCriteria.v.dn",
+                "term": ""
+            },
+            {
+                "scheme": "informationRecipient",
+                "term": "PAT"
+            }
+        ],
+        "entry": [
+            {
+                "title": {
+                    "_value": "Enfermedades del coraz\u00f3n",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "href": "https://medlineplus.gov/spanish/heartdiseases.html?utm_source=mplusconnect&utm_medium=service",
+                        "rel": "alternate"
+                    }
+                ],
+                "id": {
+                    "_value": "tag: medlineplus.gov, 2024-22-11:/spanish/heartdiseases.html?utm_source=mplusconnect&utm_medium=application"
+                },
+                "summary": {
+                    "type": "html",
+                    "_value": "<h3>\u00bfQu\u00e9 es la enfermedad del coraz\u00f3n?</h3> \n<p>La enfermedad card\u00edaca o del coraz\u00f3n es un t\u00e9rmino general que incluye muchos tipos de problemas card\u00edacos. Tambi\u00e9n se conoce como enfermedad cardiovascular, es decir, enfermedad del coraz\u00f3n y de los vasos sangu\u00edneos.</p> \n<p>La enfermedad card\u00edaca es la principal causa de muerte en los Estados Unidos, pero hay formas de prevenir y controlar muchos tipos de enfermedades del coraz\u00f3n.</p>\n\n<h3>\u00bfCu\u00e1les son los tipos de enfermedades del coraz\u00f3n?</h3>\n<p>Hay muchos tipos diferentes de enfermedades del coraz\u00f3n. Las que se nace con ellas se conocen como <a href=\"https://medlineplus.gov/congenitalheartdefects.html?utm_source=mplusconnect\">cardiopat\u00edas cong\u00e9nitas</a>. Otros tipos se desarrollan durante su vida.</p>\n\n<p>La <a href=\"https://medlineplus.gov/coronaryarterydisease.html?utm_source=mplusconnect\">enfermedad de las arterias coronarias</a> (o enfermedad card\u00edaca coronaria) es el tipo m\u00e1s com\u00fan de enfermedad card\u00edaca. Ocurre lentamente con el tiempo cuando una sustancia pegajosa llamada placa se acumula en las arterias que suministran sangre al m\u00fasculo card\u00edaco. La placa estrecha o bloquea el flujo de sangre al m\u00fasculo card\u00edaco y puede provocar otros problemas card\u00edacos:</p>\n<ul>\n<li><a href=\"https://medlineplus.gov/angina.html?utm_source=mplusconnect\">Angina</a>: Dolor en el pecho por falta de flujo sangu\u00edneo</li>\n<li><a href=\"https://medlineplus.gov/heartattack.html?utm_source=mplusconnect\">Ataque card\u00edaco</a>: Cuando parte del m\u00fasculo card\u00edaco muere debido a la p\u00e9rdida de flujo sangu\u00edneo</li>\n<li><a href=\"https://medlineplus.gov/heartfailure.html?utm_source=mplusconnect\">Insuficiencia card\u00edaca</a>: Cuando su coraz\u00f3n no puede bombear suficiente sangre para satisfacer las necesidades de su cuerpo</li>\n<li><a href=\"https://medlineplus.gov/arrhythmia.html?utm_source=mplusconnect\">Arritmia</a>: Problema con la frecuencia o el ritmo de los latidos del coraz\u00f3n</li>\n</ul>\n<p>Otros tipos de enfermedades card\u00edacas pueden afectar las <a href=\"https://medlineplus.gov/heartvalvediseases.html?utm_source=mplusconnect\">v\u00e1lvulas card\u00edacas</a> o el m\u00fasculo card\u00edaco (<a href=\"https://medlineplus.gov/cardiomyopathy.html?utm_source=mplusconnect\">miocardiopat\u00eda</a>).</p>\n\n<h3>\u00bfQu\u00e9 causa las enfermedades del coraz\u00f3n?</h3>\n<p>Las causas de las enfermedades del coraz\u00f3n dependen del tipo de enfermedad. Algunas causas posibles incluyen el estilo de vida, la gen\u00e9tica, las infecciones, los medicamentos y otras enfermedades.</p>\n\n<h3>\u00bfQui\u00e9n tiene m\u00e1s probabilidades de tener enfermedades del coraz\u00f3n?</h3>\n<p>Muchos factores diferentes pueden hacerle m\u00e1s propenso a tener enfermedades del coraz\u00f3n. Algunos de estos factores se pueden cambiar, pero otros no.</p>\n<ul>\n<li><strong>Edad:</strong> Su riesgo de enfermedad card\u00edaca aumenta a medida que envejece</li>\n<li><strong>Sexo:</strong> Algunos factores pueden afectar el riesgo de enfermedades del coraz\u00f3n de manera diferente en las <a href=\"https://medlineplus.gov/heartdiseaseinwomen.html?utm_source=mplusconnect\">mujeres</a> que en los hombres</li> \n<li><strong>Antecedentes familiares y gen\u00e9tica:</strong> Una historia familiar de enfermedad card\u00edaca temprana aumenta el riesgo de enfermedades del coraz\u00f3n. Adem\u00e1s, las investigaciones han demostrado que algunos genes est\u00e1n relacionados con un mayor riesgo de ciertas enfermedades del coraz\u00f3n</li> \n<li><strong>Raza/etnicidad:</strong> Ciertos grupos tienen mayores riesgos que otros</li>  \n<li><strong>H\u00e1bitos de estilo de vida:</strong> Con el tiempo, h\u00e1bitos de estilo de vida poco saludables pueden aumentar su riesgo de enfermedad card\u00edaca: \n\t<ul>\t\n\t\t<li>Comer una dieta alta en <a href=\"https://medlineplus.gov/dietaryfats.html?utm_source=mplusconnect\">grasas</a> saturadas, carbohidratos refinados y <a href=\"https://medlineplus.gov/sodium.html?utm_source=mplusconnect\">sal</a></li>\n\t\t<li>No hacer suficiente <a href=\"https://medlineplus.gov/healthrisksofaninactivelifestyle.html?utm_source=mplusconnect\">ejercicio</a></li>\n\t\t<li>Beber demasiado <a href=\"https://medlineplus.gov/alcohol.html?utm_source=mplusconnect\">alcohol</a></li>\n\t\t<li><a href=\"https://medlineplus.gov/smoking.html?utm_source=mplusconnect\">Fumar</a> y exponerse al <a href=\"https://medlineplus.gov/secondhandsmoke.html?utm_source=mplusconnect\">humo de segunda mano</a></li>\n\t\t<li>Demasiado <a href=\"https://medlineplus.gov/stress.html?utm_source=mplusconnect\">estr\u00e9s</a></li>\n\t</ul>\n</li>\n<li><strong>Tener otras afecciones m\u00e9dicas</strong> puede aumentar su riesgo de enfermedades del coraz\u00f3n. Estos problemas incluyen:\n\t<ul>\n\t\t<li><a href=\"https://medlineplus.gov/highbloodpressure.html?utm_source=mplusconnect\">Presi\u00f3n arterial alta</a></li>\n\t\t<li>Niveles de <a href=\"https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html?utm_source=mplusconnect\">colesterol</a> altos</li>\n\t\t<li><a href=\"https://medlineplus.gov/diabetes.html?utm_source=mplusconnect\">Diabetes</a></li>\n\t\t<li><a href=\"https://medlineplus.gov/obesity.html?utm_source=mplusconnect\">Obesidad</a></li>\n\t\t<li><a href=\"https://medlineplus.gov/autoimmunediseases.html?utm_source=mplusconnect\">Enfermedades autoinmunes</a> e inflamatorias</li>\n\t\t<li><a href=\"https://medlineplus.gov/chronickidneydisease.html?utm_source=mplusconnect\">Enfermedad renal cr\u00f3nica</a></li>\n\t\t<li><a href=\"https://medlineplus.gov/metabolicsyndrome.html?utm_source=mplusconnect\">S\u00edndrome metab\u00f3lico</a></li>\n\t</ul>\n</li>\n</ul>\n\n<h3>\u00bfCu\u00e1les son los s\u00edntomas de las enfermedades del coraz\u00f3n?</h3>\n<p>Los s\u00edntomas depender\u00e1n del tipo de enfermedad card\u00edaca que tenga. Es posible que no tenga s\u00edntomas al principio. En algunos casos, es posible que no sepa que tiene una enfermedad card\u00edaca hasta que tenga una complicaci\u00f3n, como un ataque al coraz\u00f3n.</p>\n\n<h3>\u00bfC\u00f3mo se diagnostican las enfermedades del coraz\u00f3n?</h3>\n<p>Para saber si tiene una enfermedad card\u00edaca, su profesional de la salud puede:</p>\n<ul>\n<li>Preguntar sobre su <strong>historia cl\u00ednica</strong>, incluyendo sus s\u00edntomas</li>\n<li>Preguntar sobre la <strong>historia de salud de su familia</strong>, incluyendo los familiares que han tenido enfermedades del coraz\u00f3n</li>\n<li>Hacer un <strong>examen f\u00edsico</strong></li>\n<li>Es probable que solicite <strong><a href=\"https://medlineplus.gov/hearthealthtests.html?utm_source=mplusconnect\">pruebas del coraz\u00f3n</a></strong> y <strong>an\u00e1lisis de sangre</strong></li>\n</ul>\n<p>En algunos casos, su profesional de la salud puede referirlo a un cardi\u00f3logo (un especialista en enfermedades del coraz\u00f3n) para pruebas, diagn\u00f3stico y atenci\u00f3n.</p>\n\n<h3>\u00bfCu\u00e1les son los tratamientos para las enfermedades del coraz\u00f3n?</h3>\n<p>Los planes de tratamiento para la enfermedad card\u00edaca dependen del tipo de enfermedad card\u00edaca que tenga, la gravedad de sus s\u00edntomas y otras afecciones m\u00e9dicas que pueda tener. Los posibles tratamientos pueden incluir:</p>\n<ul>\n<li>Cambios de estilo de vida saludables para el coraz\u00f3n</li>\n<li>Medicamentos</li>\n<li>Procedimientos o <a href=\"https://medlineplus.gov/heartsurgery.html?utm_source=mplusconnect\">cirug\u00edas</a></li>\n<li><a href=\"https://medlineplus.gov/cardiacrehabilitation.html?utm_source=mplusconnect\">Rehabilitaci\u00f3n card\u00edaca</a></li>\n</ul>\n\n<h3>\u00bfSe pueden prevenir las enfermedades del coraz\u00f3n?</h3>\n<p>Es posible que pueda bajar el riesgo de ciertas enfermedades card\u00edacas <a href=\"https://medlineplus.gov/spanish/howtopreventheartdisease.html\">haciendo cambios en el estilo de vida saludables para el coraz\u00f3n</a> y controlando cualquier otra afecci\u00f3n m\u00e9dica que tenga.</p>\n\n<p class=\"NLMattribution\">  NIH: Instituto Nacional del Coraz\u00f3n, los Pulmones y la Sangre</p>"
+                },
+                "updated": {
+                    "_value": "2024-11-22T21:35:49Z"
+                }
+            }
+        ]
+    }
+}

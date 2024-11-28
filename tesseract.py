@@ -19,5 +19,5 @@ img=cv2.imread(sys.argv[1])
 #plt.show()
 
 text=pytesseract.image_to_string(img,lang='spa')
-print('detected text:',text)
+print(text)
 

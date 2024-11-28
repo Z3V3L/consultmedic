@@ -1,0 +1,71 @@
+{
+    "feed": {
+        "base": "https://medlineplus.gov/",
+        "lang": "es",
+        "xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "title": {
+            "type": "text",
+            "_value": "MedlinePlus Connect"
+        },
+        "updated": {
+            "_value": "2024-11-22T21:44:35Z"
+        },
+        "id": {
+            "_value": ""
+        },
+        "author": {
+            "name": {
+                "_value": "U.S. National Library of Medicine"
+            },
+            "uri": {
+                "_value": "https://www.nlm.nih.gov"
+            }
+        },
+        "subtitle": {
+            "type": "text",
+            "_value": "MedlinePlus Connect results for ICD-10-CM C80.1"
+        },
+        "category": [
+            {
+                "scheme": "mainSearchCriteria.v.c",
+                "term": "C80.1"
+            },
+            {
+                "scheme": "mainSearchCriteria.v.cs",
+                "term": "ICD10CM"
+            },
+            {
+                "scheme": "mainSearchCriteria.v.dn",
+                "term": ""
+            },
+            {
+                "scheme": "informationRecipient",
+                "term": "PAT"
+            }
+        ],
+        "entry": [
+            {
+                "title": {
+                    "_value": "C\u00e1ncer",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "href": "https://medlineplus.gov/spanish/cancer.html?utm_source=mplusconnect&utm_medium=service",
+                        "rel": "alternate"
+                    }
+                ],
+                "id": {
+                    "_value": "tag: medlineplus.gov, 2024-22-11:/spanish/cancer.html?utm_source=mplusconnect&utm_medium=application"
+                },
+                "summary": {
+                    "type": "html",
+                    "_value": "<p>El c\u00e1ncer comienza en las c\u00e9lulas, que constituyen los ladrillos del cuerpo. Normalmente, el cuerpo forma c\u00e9lulas nuevas a medida que se necesitan para reemplazar a las c\u00e9lulas envejecidas que mueren. Algunas veces, este proceso no resulta ser el esperado. Crecen c\u00e9lulas nuevas que no son necesarias y las c\u00e9lulas envejecidas no mueren cuando deber\u00edan. Estas c\u00e9lulas adicionales pueden formar una masa llamada tumor. Los tumores pueden ser benignos (no cancerosos) o malignos (cancerosos). Los <a href=\"https://medlineplus.gov/benigntumors.html?utm_source=mplusconnect\">tumores benignos</a> no son c\u00e1ncer, mientras que los malignos s\u00ed lo son. Las c\u00e9lulas de los tumores malignos pueden invadir los tejidos cercanos. Tambi\u00e9n pueden desprenderse y diseminarse a otras partes del cuerpo.  </p>\n\n<p>El c\u00e1ncer no es solo una enfermedad, sino varias. Existen m\u00e1s de 100 tipos de c\u00e1ncer. La mayor\u00eda de \u00e9stos se nombran por su lugar de origen. Por ejemplo, el c\u00e1ncer de pulm\u00f3n comienza en el pulm\u00f3n y el c\u00e1ncer de seno comienza en el seno. La diseminaci\u00f3n de un c\u00e1ncer desde una parte del cuerpo a otra se denomina met\u00e1stasis. Los s\u00edntomas y el tratamiento dependen del tipo de c\u00e1ncer y de lo avanzada que est\u00e9 la enfermedad. La mayor\u00eda de los tratamientos incluye cirug\u00eda, <a href=\"https://medlineplus.gov/radiationtherapy.html?utm_source=mplusconnect\">radiaci\u00f3n</a> y/o <a href=\"https://medlineplus.gov/cancerchemotherapy.html?utm_source=mplusconnect\">quimioterapia</a>. Algunos pueden tambi\u00e9n incluir terapia hormonal, <a href=\"https://medlineplus.gov/cancerimmunotherapy.html?utm_source=mplusconnect\">inmunoterapia</a> u otros tipos de terapia biol\u00f3gica, o <a href=\"https://medlineplus.gov/stemcells.html?utm_source=mplusconnect\">trasplante de c\u00e9lulas madre</a>.   </p>\n\n<p class=\"NLMattribution\">  NIH: Instituto Nacional del C\u00e1ncer</p>"
+                },
+                "updated": {
+                    "_value": "2024-11-22T21:44:35Z"
+                }
+            }
+        ]
+    }
+}

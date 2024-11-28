@@ -1,0 +1,137 @@
+{
+    "feed": {
+        "base": "https://medlineplus.gov/",
+        "lang": "es",
+        "xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "title": {
+            "type": "text",
+            "_value": "MedlinePlus Connect"
+        },
+        "updated": {
+            "_value": "2024-11-22T20:29:59Z"
+        },
+        "id": {
+            "_value": ""
+        },
+        "author": {
+            "name": {
+                "_value": "U.S. National Library of Medicine"
+            },
+            "uri": {
+                "_value": "https://www.nlm.nih.gov"
+            }
+        },
+        "subtitle": {
+            "type": "text",
+            "_value": "MedlinePlus Connect results for ICD-10-CM E10"
+        },
+        "category": [
+            {
+                "scheme": "mainSearchCriteria.v.c",
+                "term": "E10"
+            },
+            {
+                "scheme": "mainSearchCriteria.v.cs",
+                "term": "ICD10CM"
+            },
+            {
+                "scheme": "mainSearchCriteria.v.dn",
+                "term": ""
+            },
+            {
+                "scheme": "informationRecipient",
+                "term": "PAT"
+            }
+        ],
+        "entry": [
+            {
+                "title": {
+                    "_value": "Diabetes tipo 1",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "href": "https://medlineplus.gov/spanish/diabetestype1.html?utm_source=mplusconnect&utm_medium=service",
+                        "rel": "alternate"
+                    }
+                ],
+                "id": {
+                    "_value": "tag: medlineplus.gov, 2024-22-11:/spanish/diabetestype1.html?utm_source=mplusconnect&utm_medium=application"
+                },
+                "summary": {
+                    "type": "html",
+                    "_value": "<p>La <a href=\"https://medlineplus.gov/diabetes.html?utm_source=mplusconnect\">diabetes</a> indica que el nivel de glucosa, o <a href=\"https://medlineplus.gov/bloodglucose.html?utm_source=mplusconnect\">az\u00facar</a>, se encuentra muy elevado en la sangre. En la diabetes tipo 1, el p\u00e1ncreas no produce insulina. La insulina es una hormona que ayuda a que la glucosa penetre en las c\u00e9lulas para suministrarles energ\u00eda. Sin la insulina, hay un exceso de glucosa que permanece en la sangre. Con el tiempo, los altos niveles de glucosa en la sangre pueden causarle <a href=\"https://medlineplus.gov/diabetescomplications.html?utm_source=mplusconnect\">problemas serios</a> en el <a href=\"https://medlineplus.gov/diabeticheartdisease.html?utm_source=mplusconnect\">coraz\u00f3n</a>, los <a href=\"https://medlineplus.gov/diabeticeyeproblems.html?utm_source=mplusconnect\">ojos</a>, los <a href=\"https://medlineplus.gov/diabetickidneyproblems.html?utm_source=mplusconnect\">ri\u00f1ones</a>, los <a href=\"https://medlineplus.gov/diabeticnerveproblems.html?utm_source=mplusconnect\">nervios</a>, las enc\u00edas y los dientes.</p>\n<p>La diabetes tipo 1 ocurre con mayor frecuencia en los <a href=\"https://medlineplus.gov/diabetesinchildrenandteens.html?utm_source=mplusconnect\">ni\u00f1os</a> y adultos j\u00f3venes, pero puede aparecer a cualquier edad. Los s\u00edntomas pueden incluir:</p>\n<ul>\n<li>Mucha sed</li>\n<li>Orinar frecuentemente</li>\n<li>Sentir mucha hambre o cansancio</li>\n<li>P\u00e9rdida de peso sin raz\u00f3n aparente</li>\n<li>Presencia de llagas que tardan en sanar</li>\n<li>Piel seca y picaz\u00f3n</li>\n<li>P\u00e9rdida de la sensaci\u00f3n u hormigueo en los pies</li>\n<li>Vista borrosa</li>\n</ul>\n<p>Un an\u00e1lisis de sangre puede mostrar si tiene diabetes. De ser as\u00ed, deber\u00e1 tomar <a href=\"https://medlineplus.gov/diabetesmedicines.html?utm_source=mplusconnect\">insulina</a> el resto de su vida. Un an\u00e1lisis de sangre llamado <a href=\"https://medlineplus.gov/a1c.html?utm_source=mplusconnect\">A1c</a> puede comprobar c\u00f3mo est\u00e1 manejando su diabetes.</p>\n<p class=\"NLMattribution\">  NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales</p>"
+                },
+                "updated": {
+                    "_value": "2024-11-22T20:29:59Z"
+                }
+            },
+            {
+                "title": {
+                    "_value": "C\u00f3mo llevar una vida saludable si tiene diabetes",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "href": "https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/como-llevar-vida-saludable-si-tiene-diabetes?utm_medium=ehr+service&utm_source=medlineplus+connect",
+                        "rel": "alternate"
+                    }
+                ],
+                "id": {
+                    "_value": "tag: www.niddk.nih.gov, 2024-22-11:/health-information/informacion-de-la-salud/diabetes/informacion-general/como-llevar-vida-saludable-si-tiene-diabetes?utm_medium=ehr+service&utm_source=medlineplus+connect"
+                },
+                "summary": {
+                    "type": "html",
+                    "_value": "Un estilo de vida saludable puede ayudarle a manejar la diabetes, la presi\u00f3n arterial y los niveles de colesterol. Comience poco a poco y trabaje con su equipo de atenci\u00f3n de salud."
+                },
+                "updated": {
+                    "_value": "2024-11-22T20:29:59Z"
+                }
+            },
+            {
+                "title": {
+                    "_value": "Diabetes tipo 1",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "href": "https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es/diabetes-tipo-1?utm_medium=ehr+service&utm_source=medlineplus+connect",
+                        "rel": "alternate"
+                    }
+                ],
+                "id": {
+                    "_value": "tag: www.niddk.nih.gov, 2024-22-11:/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es/diabetes-tipo-1?utm_medium=ehr+service&utm_source=medlineplus+connect"
+                },
+                "summary": {
+                    "type": "html",
+                    "_value": "Diabetes tipo 1, causas, diagn\u00f3stico y tratamiento. No puedes prevenir la diabetes tipo 1. Puede controlarlo con insulina y h\u00e1bitos saludables."
+                },
+                "updated": {
+                    "_value": "2024-11-22T20:29:59Z"
+                }
+            },
+            {
+                "title": {
+                    "_value": "El manejo de la diabetes",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "href": "https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/manejo?utm_medium=ehr+service&utm_source=medlineplus+connect",
+                        "rel": "alternate"
+                    }
+                ],
+                "id": {
+                    "_value": "tag: www.niddk.nih.gov, 2024-22-11:/health-information/informacion-de-la-salud/diabetes/informacion-general/manejo?utm_medium=ehr+service&utm_source=medlineplus+connect"
+                },
+                "summary": {
+                    "type": "html",
+                    "_value": "Inf\u00f3rmese sobre c\u00f3mo crear un plan de atenci\u00f3n para la diabetes que incluya llevar un estilo de vida saludable, tomar sus medicamentos y manejar su nivel de glucosa en la sangre."
+                },
+                "updated": {
+                    "_value": "2024-11-22T20:29:59Z"
+                }
+            }
+        ]
+    }
+}
