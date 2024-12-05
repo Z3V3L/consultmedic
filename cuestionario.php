@@ -14,7 +14,7 @@
     <link href="product.css" rel="stylesheet">
     <link href="styles/style.css" rel="stylesheet">
     <style>
-        html body header.site-header.sticky-top.py-1{
+        html body header.site-header.sticky-top{
             position: absolute;
             width: 100%;
         }
@@ -29,8 +29,10 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 </head>
-<body>
+<body class="gradient-background">
     <?php include 'header-footer/header.php';?>
+
+    
     <h1>Test de Síntomas</h1>
     <form id="symptomTest">
         <div class="question-card active">
@@ -214,6 +216,23 @@
     </form>
 
     <h2 id="result"></h2>
+
+    <div id="image-container">
+        <img src="img/unitec.png" alt="Logo UNITEC">
+    </div>
+    <div class="main-content">
+        <div class="ad-section" id="ad-left">
+            <h5>Anuncio Médico</h5>
+            <img src="img/img_a1.png" alt="Anuncio 1">
+            <p>Descubre las últimas soluciones para el cuidado de la diabetes.</p>
+        </div>
+
+        <div class="ad-section" id="ad-right">
+            <h5>Salud y Bienestar</h5>
+            <img src="img/img_a2.png" alt="Anuncio 2">
+            <p>Consulta con especialistas en enfermedades cardiovasculares.</p>
+        </div>
+    </div>
 
     <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
     <script src="JS/test.js"></script>

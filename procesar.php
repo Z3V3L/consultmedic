@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <title>Subir archivo | Consultmedic</title>
+    <title>Respuesta IA | Consultmedic</title>
     <link rel="icon" type="image/x-icon" href="styles/logo_flat.png">
 
 
@@ -17,7 +17,7 @@
     <link href="product.css" rel="stylesheet">
     <link href="styles/style.css" rel="stylesheet">
   </head>
-  <body>
+  <body class="gradient-background" style="min-height: 100vh;">
 
 <?php include 'header-footer/header.php';?>
 

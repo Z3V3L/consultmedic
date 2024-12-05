@@ -24,3 +24,91 @@
 	box-shadow: 0 0 3.4vmin 20px rgba(66, 66, 66, 0.75);
 	animation: shadow 0.7s ease-in infinite alternate;
 }
+
+
+.gradient-background {
+  background: linear-gradient(300deg, #19c5e7, #ffffff, #53fb53);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+@keyframes gradient-animation {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+/* Contenedor principal del test con los anuncios a los lados */
+.main-content {
+  display: flex;
+  justify-content: space-between; /* Asegura que los anuncios estén a los extremos */
+  align-items: flex-start;
+  padding: 20px;
+  gap: 20px; /* Espaciado entre las secciones */
+}
+
+
+/* Sección de anuncios */
+.ad-section {
+  flex: 1;
+  max-width: 200px;
+  margin: 10px;
+  padding: 15px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Centra el contenido dentro de la sección */
+  position: fixed;
+  top: 15rem;
+  width: 100%;
+}
+#ad-left{
+  left: 5rem;
+}
+#ad-right{
+  right: 5rem;
+}
+
+.ad-section h5 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #007bff;
+}
+
+.ad-section img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .ad-section {
+      /*flex: 1;
+      max-width: 200px;
+      margin: 10px;
+      padding: 15px;
+      background-color: #ffffff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      text-align: center; /* Centra el contenido dentro de la sección */
+      position: static;
+      width: 200px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  #ad-left{
+      left: 15rem;
+  }
+  #ad-right{
+      right: 15rem;
+  }
+}
